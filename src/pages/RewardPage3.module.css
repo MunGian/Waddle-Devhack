@@ -1,0 +1,361 @@
+.rewardPage3Child {
+  position: absolute;
+  top: 51px;
+  left: 265px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-steelblue);
+  width: 90px;
+  height: 41px;
+}
+.my {
+  margin: 0;
+}
+.myRewards {
+  position: absolute;
+  top: 58px;
+  left: 263px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  display: inline-block;
+  width: 93px;
+  height: 15px;
+}
+.rewardPage3Inner,
+.rewardPage3Item {
+  position: absolute;
+  top: 186px;
+  left: 14px;
+  border-top: 2px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 182px;
+  height: 2px;
+}
+.rewardPage3Inner {
+  left: 194px;
+  border-top: 2px solid var(--color-steelblue);
+}
+.processing,
+.vectorIcon {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorIcon {
+  height: 2.87%;
+  width: 6.21%;
+  top: 15.17%;
+  right: 70.46%;
+  bottom: 81.97%;
+  left: 23.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.processing {
+  top: 159px;
+  left: 60px;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 90px;
+  height: 15px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 2.87%;
+  width: 6.21%;
+  top: 15.28%;
+  right: 23.54%;
+  bottom: 81.85%;
+  left: 70.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.complete {
+  position: absolute;
+  top: 159px;
+  left: 240px;
+  font-size: var(--font-size-mini);
+  color: var(--color-steelblue);
+  display: inline-block;
+  width: 90px;
+  height: 15px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 247px;
+  left: 26px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 311px;
+  height: 231px;
+}
+.pointExchange {
+  top: 267px;
+  width: 125px;
+  height: 27px;
+}
+.pointExchange,
+.requestDateFulfillmentContainer,
+.touchNGo {
+  position: absolute;
+  left: 57px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.touchNGo {
+  top: 316px;
+  width: 208px;
+  height: 27px;
+}
+.requestDateFulfillmentContainer {
+  top: 401px;
+  font-family: var(--font-hubballi);
+  white-space: pre-wrap;
+  width: 118px;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.div {
+  position: absolute;
+  top: 401px;
+  left: 182px;
+  font-family: var(--font-hubballi);
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 118px;
+}
+.pts,
+.rewardPage3Child1 {
+  position: absolute;
+  top: 363px;
+  height: 18px;
+}
+.rewardPage3Child1 {
+  left: 57px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-steelblue);
+  width: 70px;
+}
+.pts {
+  left: 64px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 58px;
+}
+.rewardPage3Child2 {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.rewardPage3Child3 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.groupIcon {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.groupInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.ellipseDiv,
+.rewardPage3Child4,
+.rewardPage3Child5 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.ellipseDiv,
+.rewardPage3Child5 {
+  left: 219px;
+}
+.ellipseDiv {
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPage3Child7 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.rewardPage3Child8 {
+  position: absolute;
+  top: 800px;
+  left: 300px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPage3Child10,
+.rewardPage3Child9 {
+  position: absolute;
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.rewardPage3Child10 {
+  cursor: pointer;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  top: 14px;
+}
+.groupChild4,
+.groupChild5 {
+  top: 11px;
+}
+.groupChild5 {
+  top: 8.5px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.rewardPage3Child11,
+.rewardPage3Child12 {
+  position: absolute;
+  top: 53px;
+  left: 34px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-white);
+  width: 90px;
+  height: 39px;
+  cursor: pointer;
+}
+.rewardPage3Child12 {
+  left: 150px;
+}
+.progress {
+  top: 64px;
+  left: 48px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 62px;
+  height: 15px;
+}
+.iconHome,
+.newRewards,
+.progress {
+  position: absolute;
+  cursor: pointer;
+}
+.newRewards {
+  top: 58px;
+  left: 148px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 93px;
+  height: 15px;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rewardPage3 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

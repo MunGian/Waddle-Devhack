@@ -1,0 +1,471 @@
+.rewardPageChild {
+  position: absolute;
+  top: 373px;
+  left: 34px;
+  border-radius: var(--br-mini);
+  width: 321px;
+  height: 267px;
+}
+.rewardPageInner,
+.rewardPageItem {
+  position: absolute;
+  top: 439px;
+  left: 51px;
+  width: 30px;
+  height: 30px;
+}
+.rewardPageInner {
+  top: 121px;
+  left: 34px;
+  border-radius: var(--br-mini);
+  width: 321px;
+  height: 220px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 155px;
+  left: 240px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 90px;
+  height: 90px;
+}
+.active {
+  position: absolute;
+  top: 267px;
+  left: 251px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-itim);
+  display: inline-block;
+  width: 67px;
+  height: 25px;
+}
+.rewardPageChild1 {
+  position: absolute;
+  top: 160px;
+  left: 245px;
+  border-radius: 50%;
+  background-color: #a9cff2;
+  width: 80px;
+  height: 80px;
+}
+.groupIcon {
+  position: absolute;
+  top: 172px;
+  left: 257px;
+  width: 55px;
+  height: 55px;
+}
+.waddlePointBalance {
+  top: 153px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-itim);
+  color: var(--color-white);
+  display: inline-block;
+  width: 159px;
+  height: 19px;
+}
+.pts,
+.rectangleDiv,
+.waddlePointBalance {
+  position: absolute;
+  left: 51px;
+}
+.pts {
+  top: 196px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-itim);
+  color: var(--color-white);
+  display: inline-block;
+  width: 109px;
+  height: 37px;
+}
+.rectangleDiv {
+  top: 258px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 159px;
+  height: 57px;
+}
+.youHaveCollected {
+  margin: 0;
+}
+.youHaveCollectedContainer {
+  position: absolute;
+  top: 270px;
+  left: 66px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-itim);
+  display: inline-block;
+  width: 110px;
+  height: 39px;
+}
+.todaysJourney {
+  position: absolute;
+  top: 395px;
+  left: 51px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 167px;
+  height: 19px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 1.78%;
+  width: 5.64%;
+  top: 52.84%;
+  right: 80.26%;
+  bottom: 45.38%;
+  left: 14.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 507px;
+  left: 51px;
+  width: 30px;
+  height: 30px;
+}
+.vectorIcon1 {
+  height: 2.13%;
+  width: 3.85%;
+  top: 60.78%;
+  right: 81.28%;
+  bottom: 37.09%;
+  left: 14.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rewardPageChild2,
+.vectorIcon2 {
+  position: absolute;
+  top: 573px;
+  left: 51px;
+  width: 30px;
+  height: 30px;
+}
+.vectorIcon2 {
+  height: 2.13%;
+  width: 4.62%;
+  top: 68.6%;
+  right: 80.77%;
+  bottom: 29.27%;
+  left: 14.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rewardPageChild3 {
+  position: absolute;
+  top: 459px;
+  left: 95px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gainsboro-300);
+  width: 176px;
+  height: 10px;
+}
+.pointsEarned,
+.totalDistance,
+.totalHours {
+  position: absolute;
+  top: 439px;
+  left: 95px;
+  display: inline-block;
+  width: 91px;
+  height: 10px;
+}
+.pointsEarned,
+.totalHours {
+  top: 507px;
+}
+.pointsEarned {
+  top: 573px;
+}
+.rewardPageChild4,
+.rewardPageChild5 {
+  position: absolute;
+  top: 527px;
+  left: 95px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gainsboro-300);
+  width: 176px;
+  height: 10px;
+}
+.rewardPageChild5 {
+  top: 593px;
+}
+.div,
+.kilometers {
+  position: absolute;
+  display: inline-block;
+}
+.kilometers {
+  top: 439px;
+  left: 285px;
+  width: 52px;
+  height: 10px;
+}
+.div {
+  width: calc(100% - 369px);
+  top: 458px;
+  left: 317px;
+  text-align: center;
+}
+.points {
+  top: 573px;
+  left: 285px;
+  text-align: right;
+  width: 52px;
+  height: 10px;
+}
+.div1,
+.div2,
+.hours,
+.points {
+  position: absolute;
+  display: inline-block;
+}
+.hours {
+  top: 507px;
+  left: 285px;
+  text-align: right;
+  width: 52px;
+  height: 10px;
+}
+.div1,
+.div2 {
+  width: calc(100% - 369px);
+  top: 526px;
+  left: 316px;
+  text-align: center;
+}
+.div2 {
+  top: 592px;
+  text-align: right;
+}
+.rewardPageChild6,
+.rewardPageChild7,
+.rewardPageChild8 {
+  position: absolute;
+  top: 53px;
+  left: 34px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-steelblue);
+  width: 90px;
+  height: 39px;
+}
+.rewardPageChild7,
+.rewardPageChild8 {
+  left: 150px;
+  background-color: var(--color-white);
+  cursor: pointer;
+}
+.rewardPageChild8 {
+  top: 51px;
+  left: 265px;
+  height: 41px;
+}
+.myRewards,
+.newRewards,
+.progress {
+  position: absolute;
+  font-family: var(--font-itim);
+  text-align: center;
+  display: inline-block;
+  height: 15px;
+}
+.progress {
+  top: 64px;
+  left: 48px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  width: 62px;
+}
+.myRewards,
+.newRewards {
+  top: 58px;
+  left: 148px;
+  font-size: var(--font-size-xs);
+  width: 93px;
+  cursor: pointer;
+}
+.myRewards {
+  left: 263px;
+}
+.rewardPageChild9 {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.rewardPageChild10 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.rewardPageChild11 {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.groupInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.rewardPageChild12,
+.rewardPageChild13 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.rewardPageChild13 {
+  left: 219px;
+}
+.rewardPageChild14 {
+  position: absolute;
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPageChild16 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.rewardPageChild17 {
+  position: absolute;
+  top: 800px;
+  left: 300px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPageChild18,
+.rewardPageChild19 {
+  position: absolute;
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.rewardPageChild19 {
+  cursor: pointer;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  top: 14px;
+}
+.groupChild4,
+.groupChild5 {
+  top: 11px;
+}
+.groupChild5 {
+  top: 8.5px;
+}
+.iconHome,
+.rectangleParent {
+  position: absolute;
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rewardPage {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

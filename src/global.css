@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Itim:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Hubballi:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-itim: Itim;
+  --font-inter: Inter;
+  --font-kaushan-script: "Kaushan Script";
+  --font-hubballi: Hubballi;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+  --font-size-smi: 13px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-14xl: 33px;
+  --font-size-5xl: 24px;
+  --font-size-5xs: 8px;
+  --font-size-lg: 18px;
+  --font-size-11xl: 30px;
+  --font-size-sm: 14px;
+  --font-size-3xl: 22px;
+  --font-size-sm-5: 13.5px;
+
+  /* Colors */
+  --color-gainsboro-100: #e4e2e3;
+  --color-gainsboro-200: #e1e1e1;
+  --color-gainsboro-300: #d9d9d9;
+  --color-dimgray-100: #797171;
+  --color-dimgray-200: #6c6666;
+  --color-white: #fff;
+  --color-whitesmoke-100: #eee;
+  --color-whitesmoke-200: #eee9e9;
+  --color-black: #000;
+  --color-silver-100: #d4c2cb;
+  --color-silver-200: #b7c1c7;
+  --color-silver-300: #bbb6bc;
+  --color-darkslategray: #3d3a3a;
+  --color-steelblue: #629ace;
+  --color-gray-100: #fdfcfc;
+  --color-gray-200: #fbfbfb;
+  --color-gray-300: #959393;
+  --color-gray-400: #807c7c;
+  --color-gray-500: #0f0e0e;
+  --color-gray-600: #040404;
+  --color-gray-700: #010101;
+  --color-gray-800: rgba(0, 0, 0, 0.3);
+  --color-gray-900: rgba(255, 255, 255, 0.5);
+  --color-gray-1000: rgba(0, 0, 0, 0.4);
+  --color-lightskyblue: #78acdc;
+  --color-forestgreen-100: #2db94c;
+  --color-forestgreen-200: #07ae36;
+  --color-mediumblue: #1a4af7;
+  --color-orange-100: #eb9718;
+  --color-orange-200: rgba(244, 165, 46, 0.8);
+  --color-darkslateblue: #793f7a;
+  --color-mediumvioletred: #cf327f;
+  --color-violet: #e989e0;
+  --color-plum: #a963a2;
+  --color-palevioletred: #b94c83;
+  --color-darkseagreen: #97d49a;
+  --color-darkgray-100: #a7b1bd;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-base: 16px;
+  --br-8xs: 5px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-6xl: 25px;
+}

@@ -1,0 +1,38 @@
+.groupChild {
+  position: absolute;
+  top: 344px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-silver-100);
+  width: 295px;
+  height: 197px;
+}
+.letsPlantTogether,
+.sun19Nov {
+  position: absolute;
+  top: 506px;
+  left: 16px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.sun19Nov {
+  top: 522px;
+  color: var(--color-mediumvioletred);
+  -webkit-text-stroke: 0.5px #cf327f;
+}
+.image38Icon {
+  position: absolute;
+  top: 344px;
+  left: 0;
+  width: 294px;
+  height: 156px;
+  object-fit: cover;
+}
+.rectangleParent {
+  width: 1223px;
+  height: 844px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

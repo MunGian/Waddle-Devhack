@@ -1,0 +1,16 @@
+<svg width="71" height="94" viewBox="0 0 71 94" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="29.8947" y1="67.1077" x2="40.4824" y2="67.1077" stroke="black" stroke-width="2"/>
+<rect x="2" y="26.0359" width="67" height="54.946" rx="18" fill="white" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="13.0135" y2="-2" transform="matrix(0.532139 -0.846657 0.897366 0.441287 11.2104 93.9998)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="13.0135" y2="-2" transform="matrix(0.532111 0.846675 -0.897379 0.44126 54.1842 82.9819)" stroke="black" stroke-width="4"/>
+<path d="M19.5526 68.934C19.5526 70.5518 18.0278 72.0657 15.8815 72.0657C13.7352 72.0657 12.2104 70.5518 12.2104 68.934C12.2104 67.3161 13.7352 65.8022 15.8815 65.8022C18.0278 65.8022 19.5526 67.3161 19.5526 68.934Z" fill="white" stroke="black" stroke-width="2"/>
+<path d="M58.7894 68.934C58.7894 70.5518 57.2646 72.0657 55.1183 72.0657C52.972 72.0657 51.4473 70.5518 51.4473 68.934C51.4473 67.3161 52.972 65.8022 55.1183 65.8022C57.2646 65.8022 58.7894 67.3161 58.7894 68.934Z" fill="white" stroke="black" stroke-width="2"/>
+<rect x="10.842" y="37.6555" width="49.3158" height="19.5868" rx="3.5" fill="white" stroke="black" stroke-width="3"/>
+<rect x="21.0527" y="13.5179" width="30.1404" height="8.36525" rx="4.18262" fill="black" stroke="black"/>
+<rect x="11.6236" y="89.4549" width="48.3754" height="0.826345" fill="black" stroke="black" stroke-width="0.826345"/>
+<line x1="28.0262" y1="73.7183" x2="42.3508" y2="73.7183" stroke="black" stroke-width="2"/>
+<line x1="28.0262" y1="68.2095" x2="42.3508" y2="68.2095" stroke="black" stroke-width="2"/>
+<line y1="-2" x2="16.6617" y2="-2" transform="matrix(0.560695 -0.828022 0.883643 0.468161 26.158 15.7963)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="16.6617" y2="-2" transform="matrix(0.560695 -0.828022 0.883643 0.468161 44.842 15.7963)" stroke="black" stroke-width="4"/>
+<line y1="-2" x2="16.6617" y2="-2" transform="matrix(0.560695 -0.828022 0.883643 0.468161 35.5 15.7963)" stroke="black" stroke-width="4"/>
+</svg>

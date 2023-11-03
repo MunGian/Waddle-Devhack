@@ -1,0 +1,304 @@
+.image24Icon {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  width: 387px;
+  height: 712px;
+  object-fit: cover;
+}
+.carpoolPage3Child {
+  position: absolute;
+  top: 530px;
+  left: 2px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 390px;
+  height: 331px;
+}
+.carpoolPage3Item {
+  position: absolute;
+  top: 538px;
+  left: 148px;
+  background-color: var(--color-gainsboro-300);
+  width: 93px;
+  height: 6px;
+}
+.image17Icon {
+  position: absolute;
+  top: 53px;
+  left: 29px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.carpoolPage3Inner {
+  position: absolute;
+  top: 552px;
+  left: 12px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 365px;
+  height: 61px;
+}
+.groupIcon,
+.rectangleDiv {
+  position: absolute;
+  top: 566px;
+  left: 43px;
+  width: 50px;
+  height: 32px;
+}
+.rectangleDiv {
+  top: 619px;
+  left: 12px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-200);
+  width: 365px;
+  height: 61px;
+}
+.carpoolPage3Child1,
+.image24Icon1 {
+  position: absolute;
+  top: 633px;
+  left: 43px;
+  width: 50px;
+  height: 32px;
+}
+.image24Icon1 {
+  top: 190px;
+  left: 130px;
+  width: 31px;
+  height: 31px;
+  object-fit: cover;
+}
+.carpoolPage3Child2 {
+  position: absolute;
+  top: 128px;
+  left: 111px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 190px;
+  height: 52px;
+}
+.min,
+.usmCafeteriaInd {
+  font-family: var(--font-inter);
+  mix-blend-mode: darken;
+}
+.usmCafeteriaInd {
+  position: absolute;
+  top: 146px;
+  left: 164px;
+}
+.min {
+  top: 154px;
+  left: 129px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.div,
+.lineDiv,
+.min {
+  position: absolute;
+}
+.div {
+  top: 138px;
+  left: 125px;
+  font-family: var(--font-inter);
+  -webkit-text-stroke: 1px #000;
+  mix-blend-mode: darken;
+}
+.lineDiv {
+  top: 135.5px;
+  left: 160.5px;
+  border-right: 1px solid var(--color-gainsboro-300);
+  box-sizing: border-box;
+  width: 1px;
+  height: 37px;
+}
+.image18Icon {
+  position: absolute;
+  top: 148px;
+  left: 287px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.carpoolPage3Child3 {
+  position: absolute;
+  top: 436px;
+  left: 79px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 179px;
+  height: 42px;
+}
+.queensbayMall {
+  position: absolute;
+  top: 451px;
+  left: 111px;
+  font-family: var(--font-inter);
+  mix-blend-mode: darken;
+}
+.image27Icon {
+  position: absolute;
+  top: 453px;
+  left: 219px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.carpoolPage3Child4,
+.carpoolPage3Child5 {
+  position: absolute;
+  top: 698px;
+  left: -1px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-whitesmoke-100);
+  width: 390px;
+  height: 163px;
+}
+.carpoolPage3Child5 {
+  top: 752px;
+  left: 25px;
+  background-color: var(--color-steelblue);
+  width: 337px;
+  height: 56px;
+}
+.bookCarpoolService,
+.onePassenger,
+.rm200 {
+  position: absolute;
+  top: 768px;
+  left: 106px;
+  font-size: var(--font-size-xl);
+  -webkit-text-stroke: 1px #000;
+  mix-blend-mode: darken;
+}
+.onePassenger,
+.rm200 {
+  top: 575px;
+  left: 114px;
+  font-size: var(--font-size-base);
+}
+.rm200 {
+  top: 577px;
+  left: 286px;
+  font-size: var(--font-size-mini);
+}
+.priceVariesBased {
+  margin: 0;
+}
+.multiplePassengers,
+.priceVariesBasedContainer {
+  position: absolute;
+  top: 639px;
+  left: 275px;
+  font-size: var(--font-size-3xs);
+  mix-blend-mode: darken;
+}
+.multiplePassengers {
+  top: 630px;
+  left: 115px;
+  font-size: var(--font-size-base);
+  -webkit-text-stroke: 1px #000;
+}
+.carpoolPage3Child6 {
+  position: absolute;
+  top: 706px;
+  left: 37px;
+  width: 35px;
+  height: 35px;
+}
+.carpoolPage3Child7 {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.balance {
+  top: 708px;
+  left: 80px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.balance,
+.offers,
+.rm10000 {
+  position: absolute;
+  mix-blend-mode: darken;
+}
+.rm10000 {
+  top: 727px;
+  left: 77px;
+  font-size: 11px;
+  -webkit-text-stroke: 1px #000;
+}
+.offers {
+  top: 716px;
+  left: 217px;
+}
+.carpoolPage3Child8,
+.carpoolPage3Child9 {
+  position: absolute;
+  top: 702.5px;
+  left: 174.5px;
+  border-right: 1px solid var(--color-silver-200);
+  box-sizing: border-box;
+  width: 1px;
+  height: 42px;
+}
+.carpoolPage3Child9 {
+  left: 295.5px;
+}
+.carpoolPage3Child10,
+.carpoolPage3Child11,
+.ellipseDiv {
+  position: absolute;
+  top: 724px;
+  left: 311px;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 5px;
+  height: 5px;
+}
+.carpoolPage3Child10,
+.carpoolPage3Child11 {
+  left: 319px;
+}
+.carpoolPage3Child11 {
+  left: 327px;
+}
+.carpoolPage3Child12 {
+  position: absolute;
+  top: 656px;
+  left: 108px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 152px;
+  height: 17px;
+}
+.specifyTheNo {
+  position: absolute;
+  top: 658px;
+  left: 122px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+  mix-blend-mode: darken;
+}
+.carpoolPage3 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

@@ -1,0 +1,319 @@
+.rewardPage2Child {
+  top: 53px;
+  left: 34px;
+  background-color: var(--color-white);
+  height: 39px;
+  cursor: pointer;
+}
+.rewardPage2Child,
+.rewardPage2Inner,
+.rewardPage2Item {
+  position: absolute;
+  border-radius: var(--br-6xl);
+  width: 90px;
+}
+.rewardPage2Item {
+  top: 53px;
+  left: 150px;
+  background-color: var(--color-white);
+  height: 39px;
+  cursor: pointer;
+}
+.rewardPage2Inner {
+  top: 51px;
+  left: 265px;
+  background-color: var(--color-steelblue);
+  height: 41px;
+}
+.progress {
+  position: absolute;
+  top: 64px;
+  left: 48px;
+  display: inline-block;
+  width: 62px;
+  height: 15px;
+  cursor: pointer;
+}
+.new {
+  margin: 0;
+}
+.myRewards,
+.newRewards {
+  position: absolute;
+  top: 58px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 93px;
+  height: 15px;
+}
+.newRewards {
+  left: 148px;
+  cursor: pointer;
+}
+.myRewards {
+  left: 263px;
+  color: var(--color-white);
+}
+.youHaveNo {
+  position: absolute;
+  top: 208px;
+  left: 34px;
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 321px;
+  height: 49px;
+}
+.goToMain,
+.rectangleDiv {
+  position: absolute;
+  top: 292px;
+  left: 91px;
+  width: 208px;
+  height: 41px;
+}
+.rectangleDiv {
+  border-radius: var(--br-6xl);
+  background-color: var(--color-steelblue);
+}
+.goToMain {
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lineDiv,
+.rewardPage2Child1 {
+  position: absolute;
+  top: 186px;
+  left: 14px;
+  border-top: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 182px;
+  height: 2px;
+}
+.rewardPage2Child1 {
+  left: 194px;
+  border-top: 2px solid var(--color-gainsboro-100);
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.87%;
+  width: 6.21%;
+  top: 15.28%;
+  right: 70.46%;
+  bottom: 81.85%;
+  left: 23.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.processing {
+  position: absolute;
+  top: 160px;
+  left: 60px;
+  color: var(--color-steelblue);
+  display: inline-block;
+  width: 90px;
+  height: 15px;
+}
+.complete,
+.vectorIcon1 {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorIcon1 {
+  height: 2.87%;
+  width: 6.21%;
+  top: 15.28%;
+  right: 23.54%;
+  bottom: 81.85%;
+  left: 70.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.complete {
+  top: 159px;
+  left: 240px;
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 90px;
+  height: 15px;
+}
+.rewardPage2Child2 {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.rewardPage2Child3 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.groupIcon {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.groupInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.ellipseDiv,
+.rewardPage2Child4,
+.rewardPage2Child5 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.ellipseDiv,
+.rewardPage2Child5 {
+  left: 219px;
+}
+.ellipseDiv {
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPage2Child7 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.rewardPage2Child8 {
+  position: absolute;
+  top: 800px;
+  left: 300px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.rewardPage2Child10,
+.rewardPage2Child9 {
+  position: absolute;
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.rewardPage2Child10 {
+  cursor: pointer;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  top: 14px;
+}
+.groupChild4,
+.groupChild5 {
+  top: 11px;
+}
+.groupChild5 {
+  top: 8.5px;
+}
+.iconHome,
+.rectangleParent {
+  position: absolute;
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rewardPage2 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

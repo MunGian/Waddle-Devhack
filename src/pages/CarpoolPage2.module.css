@@ -1,0 +1,534 @@
+.carpoolPage2Child,
+.groupChild {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 345px;
+  height: 59px;
+}
+.carpoolPage2Inner,
+.groupDiv {
+  position: absolute;
+  top: 142px;
+  left: 22px;
+  width: 345px;
+  height: 59px;
+  cursor: pointer;
+}
+.groupDiv {
+  top: 214px;
+}
+.carpool {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 85px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+  display: inline-block;
+  width: 170px;
+  height: 27px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.image17Icon {
+  position: absolute;
+  top: 61px;
+  left: 35px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.eps10BluePinPointOrLocatiIcon,
+.removebgPreview1Icon {
+  position: absolute;
+  top: 156px;
+  left: 48px;
+  width: 40.5px;
+  height: 31.5px;
+  object-fit: cover;
+}
+.eps10BluePinPointOrLocatiIcon {
+  top: 226px;
+  left: 42px;
+  width: 51px;
+  height: 35px;
+}
+.currentLocation,
+.whereTo {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: center;
+  height: 59px;
+}
+.currentLocation {
+  top: 142px;
+  left: 22px;
+  justify-content: center;
+  width: 345px;
+}
+.whereTo {
+  top: 214px;
+  left: 122px;
+  text-align: left;
+  width: 245px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 2.84%;
+  width: 6.15%;
+  top: 27.49%;
+  right: 12.56%;
+  bottom: 69.67%;
+  left: 81.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  top: 18.96%;
+  bottom: 78.2%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 351px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 335px;
+  height: 352px;
+}
+.queensbayMall {
+  position: absolute;
+  top: 370px;
+  left: 105px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.persiaranBayanIndah {
+  margin: 0;
+}
+.jalanPenang10000,
+.jlnBalikPulauContainer,
+.persiaranBayanIndahContainer {
+  position: absolute;
+  top: 397px;
+  left: 110px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  mix-blend-mode: darken;
+}
+.jalanPenang10000,
+.jlnBalikPulauContainer {
+  top: 509px;
+  left: 104px;
+}
+.jalanPenang10000 {
+  top: 453px;
+  left: 110px;
+}
+.kekLokSi,
+.komtarTower {
+  position: absolute;
+  top: 426px;
+  left: 103px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.kekLokSi {
+  top: 482px;
+  left: 108px;
+}
+.image2Icon,
+.image3Icon,
+.image4Icon {
+  position: absolute;
+  top: 371px;
+  left: 47px;
+  width: 37px;
+  height: 35px;
+  object-fit: cover;
+}
+.image3Icon,
+.image4Icon {
+  top: 427px;
+}
+.image4Icon {
+  top: 483px;
+}
+.carpoolPage2Child1,
+.lineDiv {
+  position: absolute;
+  top: 421px;
+  left: 91.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 251px;
+  height: 1px;
+}
+.carpoolPage2Child1 {
+  top: 474.5px;
+}
+.carpoolPage2Child2,
+.carpoolPage2Child3,
+.carpoolPage2Child4 {
+  position: absolute;
+  top: 294px;
+  left: 27px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 88px;
+  height: 38px;
+}
+.carpoolPage2Child3,
+.carpoolPage2Child4 {
+  left: 147px;
+  width: 91px;
+}
+.carpoolPage2Child4 {
+  left: 271px;
+  width: 88px;
+}
+.recent,
+.saved {
+  top: 304px;
+  font-size: var(--font-size-sm);
+}
+.recent {
+  position: absolute;
+  left: 50px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.saved {
+  left: 296px;
+}
+.chewJetty,
+.saved,
+.suggested {
+  position: absolute;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.suggested {
+  top: 304px;
+  left: 161px;
+  font-size: var(--font-size-sm);
+}
+.chewJetty {
+  top: 536px;
+  left: 106px;
+}
+.jlnBukitBendera,
+.weldQuay10300 {
+  position: absolute;
+  top: 564px;
+  left: 109px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  mix-blend-mode: darken;
+}
+.jlnBukitBendera {
+  top: 619px;
+  left: 108px;
+}
+.batuFeringhiBeach,
+.penangHill {
+  position: absolute;
+  top: 592px;
+  left: 103px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.batuFeringhiBeach {
+  top: 647px;
+  left: 106px;
+}
+.image18Icon,
+.image19Icon,
+.image20Icon {
+  position: absolute;
+  top: 537px;
+  left: 47px;
+  width: 37px;
+  height: 35px;
+  object-fit: cover;
+}
+.image19Icon,
+.image20Icon {
+  top: 593px;
+}
+.image20Icon {
+  top: 649px;
+}
+.carpoolPage2Child5,
+.carpoolPage2Child6,
+.carpoolPage2Child7 {
+  position: absolute;
+  top: 587px;
+  left: 91.5px;
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 251px;
+  height: 1px;
+}
+.carpoolPage2Child6,
+.carpoolPage2Child7 {
+  top: 531.5px;
+}
+.carpoolPage2Child7 {
+  top: 640.5px;
+}
+.carpoolPage2Child8 {
+  position: absolute;
+  top: 351px;
+  left: 27px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 335px;
+  height: 352px;
+  cursor: pointer;
+}
+.jalanPenang100001,
+.jlnBalikPulauContainer1,
+.persiaranBayanIndahContainer1 {
+  position: absolute;
+  top: 397px;
+  left: 105px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+  mix-blend-mode: darken;
+}
+.jalanPenang100001,
+.jlnBalikPulauContainer1 {
+  top: 509px;
+}
+.jalanPenang100001 {
+  top: 453px;
+}
+.kekLokSi1,
+.komtarTower1 {
+  -webkit-text-stroke: 0.5px #000;
+}
+.komtarTower1 {
+  position: absolute;
+  top: 426px;
+  left: 105px;
+  mix-blend-mode: darken;
+}
+.kekLokSi1 {
+  top: 482px;
+}
+.chewJetty1,
+.jlnBukitBendera1,
+.kekLokSi1,
+.weldQuay103001 {
+  position: absolute;
+  left: 105px;
+  mix-blend-mode: darken;
+}
+.chewJetty1 {
+  top: 536px;
+  -webkit-text-stroke: 0.5px #000;
+}
+.jlnBukitBendera1,
+.weldQuay103001 {
+  top: 564px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.jlnBukitBendera1 {
+  top: 619px;
+}
+.penangHill1 {
+  top: 592px;
+  -webkit-text-stroke: 0.5px #000;
+}
+.batuFeringhiBeach1,
+.jlnBatuFerringhi,
+.penangHill1 {
+  position: absolute;
+  left: 105px;
+  mix-blend-mode: darken;
+}
+.batuFeringhiBeach1 {
+  top: 647px;
+  -webkit-text-stroke: 0.5px #000;
+}
+.jlnBatuFerringhi {
+  top: 672px;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-200);
+}
+.carpoolPage2Child17 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.groupIcon {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.frameInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.carpoolPage2Child18,
+.carpoolPage2Child19,
+.ellipseDiv {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.carpoolPage2Child19,
+.ellipseDiv {
+  left: 219px;
+}
+.ellipseDiv {
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.carpoolPage2Child21,
+.carpoolPage2Child23 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.carpoolPage2Child23 {
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  top: 14px;
+}
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  top: 11px;
+}
+.frameChild4,
+.rectangleParent {
+  top: 8.5px;
+}
+.rectangleParent {
+  top: 771px;
+  left: 220px;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.iconHome,
+.rectangleGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.rectangleGroup {
+  top: 771px;
+  left: 220px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.carpoolPage2 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

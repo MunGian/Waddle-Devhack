@@ -1,0 +1,499 @@
+.trainServicesPage2Child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightskyblue);
+  width: 390px;
+  height: 272px;
+}
+.rectangleDiv,
+.trainServicesPage2Child1,
+.trainServicesPage2Child2,
+.trainServicesPage2Inner,
+.trainServicesPage2Item {
+  position: absolute;
+  top: 245px;
+  left: 130px;
+  background-color: var(--color-lightskyblue);
+  width: 65px;
+  height: 38px;
+}
+.rectangleDiv,
+.trainServicesPage2Child1,
+.trainServicesPage2Child2,
+.trainServicesPage2Inner {
+  left: 195px;
+}
+.rectangleDiv,
+.trainServicesPage2Child1,
+.trainServicesPage2Child2 {
+  left: 260px;
+}
+.trainServicesPage2Child1,
+.trainServicesPage2Child2 {
+  left: 325px;
+}
+.trainServicesPage2Child2 {
+  left: 65px;
+}
+.ipoh {
+  position: absolute;
+  top: 212px;
+  left: 35px;
+  display: flex;
+  align-items: center;
+  width: 85px;
+  height: 16px;
+}
+.trainServicesPage2Child3 {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.selectTicket {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 85px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+  text-align: center;
+  display: inline-block;
+  width: 170px;
+  height: 27px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.image17Icon {
+  position: absolute;
+  top: 61px;
+  left: 35px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.selectTicketFor {
+  position: absolute;
+  top: 154px;
+  left: 3px;
+  font-size: var(--font-size-xs);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 117px;
+  height: 16px;
+}
+.ellipseDiv,
+.trainServicesPage2Child5 {
+  position: absolute;
+  left: 19px;
+  border-radius: 50%;
+  width: 6px;
+  height: 6px;
+}
+.ellipseDiv {
+  top: 217px;
+  background-color: var(--color-lightskyblue);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+}
+.trainServicesPage2Child5 {
+  top: 182px;
+  background-color: var(--color-gainsboro-300);
+}
+.lineIcon {
+  position: absolute;
+  top: 188px;
+  left: 21.8px;
+  width: 0.5px;
+  height: 29px;
+}
+.paritBuntar,
+.pax {
+  position: absolute;
+  top: 177px;
+  left: 35px;
+  display: flex;
+  align-items: center;
+  width: 85px;
+  height: 16px;
+}
+.pax {
+  top: 212px;
+  left: 335px;
+  width: 36px;
+}
+.trainServicesPage2Child6 {
+  position: absolute;
+  top: 245px;
+  left: 0;
+  background-color: var(--color-lightskyblue);
+  width: 65px;
+  height: 38px;
+}
+.nov {
+  margin: 0;
+}
+.novMonTxtContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.novMon {
+  position: absolute;
+  top: 245px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-900);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 65px;
+  height: 38px;
+}
+.lineDiv,
+.trainServicesPage2Child7 {
+  position: absolute;
+  top: 244.8px;
+  left: -0.2px;
+  border-top: 0.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 390.5px;
+  height: 0.5px;
+}
+.trainServicesPage2Child7 {
+  top: 282.8px;
+}
+.decFri,
+.decSat,
+.novThur,
+.novTue,
+.novWed {
+  position: absolute;
+  top: 245px;
+  left: 66px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-900);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 64px;
+  height: 38px;
+}
+.decFri,
+.decSat,
+.novThur,
+.novWed {
+  left: 130px;
+}
+.decFri,
+.decSat,
+.novThur {
+  left: 195px;
+  color: var(--color-white);
+}
+.decFri,
+.decSat {
+  left: 259px;
+  color: var(--color-gray-900);
+}
+.decSat {
+  left: 326px;
+}
+.trainServicesPage2Child8,
+.trainServicesPage2Child9 {
+  position: absolute;
+  top: 244.8px;
+  left: 194.8px;
+  border-right: 0.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 0.5px;
+  height: 27.5px;
+}
+.trainServicesPage2Child9 {
+  left: 258.8px;
+}
+.trainServicesPage2Child10 {
+  position: absolute;
+  top: 307px;
+  left: calc(50% - 172px);
+  background-color: var(--color-white);
+  width: 344px;
+  height: 130px;
+}
+.train0001 {
+  position: absolute;
+  top: 318px;
+  left: 34px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 134px;
+  height: 21px;
+}
+.depart29 {
+  top: 357px;
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 160px;
+}
+.arrive29,
+.depart29,
+.fromRm3200,
+.hours10Minutes,
+.seatsLeft {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 21px;
+}
+.arrive29 {
+  top: 377px;
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 170px;
+}
+.fromRm3200,
+.hours10Minutes,
+.seatsLeft {
+  top: 408px;
+}
+.hours10Minutes {
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 139px;
+}
+.fromRm3200,
+.seatsLeft {
+  left: 239px;
+  text-align: right;
+  width: 118px;
+}
+.seatsLeft {
+  top: 318px;
+  left: 249px;
+  width: 107px;
+}
+.trainServicesPage2Child11 {
+  position: absolute;
+  top: 462px;
+  left: calc(50% - 172px);
+  background-color: var(--color-white);
+  width: 344px;
+  height: 130px;
+}
+.train0002 {
+  position: absolute;
+  top: 473px;
+  left: 34px;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+  width: 134px;
+  height: 21px;
+}
+.depart291 {
+  top: 512px;
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 160px;
+}
+.arrive291,
+.depart291,
+.fromRm32001,
+.hours10Minutes1,
+.seatsLeft1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 21px;
+}
+.arrive291 {
+  top: 532px;
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 170px;
+}
+.fromRm32001,
+.hours10Minutes1,
+.seatsLeft1 {
+  top: 563px;
+}
+.hours10Minutes1 {
+  left: 34px;
+  font-size: var(--font-size-smi);
+  width: 139px;
+}
+.fromRm32001,
+.seatsLeft1 {
+  left: 239px;
+  text-align: right;
+  width: 118px;
+}
+.seatsLeft1 {
+  top: 473px;
+  left: 249px;
+  width: 107px;
+}
+.trainServicesPage2Child12 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.groupIcon {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.frameInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.trainServicesPage2Child13,
+.trainServicesPage2Child14 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.trainServicesPage2Child14 {
+  left: 219px;
+}
+.trainServicesPage2Child15 {
+  position: absolute;
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.trainServicesPage2Child17,
+.trainServicesPage2Child19 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.trainServicesPage2Child19 {
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  top: 14px;
+}
+.frameChild3,
+.frameChild4,
+.rectangleParent {
+  top: 11px;
+}
+.frameChild4,
+.rectangleParent {
+  top: 8.5px;
+}
+.rectangleParent {
+  top: 771px;
+  left: 220px;
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.iconHome,
+.rectangleGroup {
+  position: absolute;
+  cursor: pointer;
+}
+.rectangleGroup {
+  top: 771px;
+  left: 220px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.trainServicesPage2 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

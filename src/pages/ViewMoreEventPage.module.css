@@ -1,0 +1,164 @@
+.myEvent {
+  position: absolute;
+  top: 266px;
+  left: 41px;
+  font-size: var(--font-size-xl);
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.image17Icon {
+  position: absolute;
+  top: 87px;
+  left: 36px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 345px;
+  height: 73px;
+}
+.exploreMore,
+.icon {
+  position: absolute;
+  top: 25px;
+}
+.exploreMore {
+  left: 70px;
+  -webkit-text-stroke: 0.5px #d9d9d9;
+  mix-blend-mode: darken;
+}
+.icon {
+  left: 27px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 163px;
+  left: 22px;
+  width: 345px;
+  height: 73px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-300);
+  font-family: var(--font-inter);
+}
+.electricVehiclesCarsInChar {
+  position: absolute;
+  top: 236px;
+  left: 28px;
+  width: 335px;
+  height: 161px;
+}
+.viewMoreEventPageChild {
+  position: absolute;
+  top: 307px;
+  left: 27px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-silver-100);
+  width: 334px;
+  height: 67px;
+}
+.viewMoreEventPageInner,
+.viewMoreEventPageItem {
+  position: absolute;
+  top: 313px;
+  left: 43px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  width: 55px;
+  height: 55px;
+}
+.viewMoreEventPageInner {
+  top: 383px;
+  left: 27px;
+  background-color: var(--color-silver-100);
+  width: 334px;
+  height: 67px;
+}
+.recyclingWorkshop,
+.sun19Nov,
+.wed22Nov {
+  position: absolute;
+  top: 336px;
+  left: 121px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.sun19Nov,
+.wed22Nov {
+  top: 318px;
+  left: 119px;
+  color: var(--color-mediumvioletred);
+  -webkit-text-stroke: 0.5px #cf327f;
+}
+.wed22Nov {
+  top: 394px;
+  left: 118px;
+}
+.advantagesOf {
+  margin: 0;
+}
+.advantagesOfElectricContainer {
+  position: absolute;
+  top: 412px;
+  left: 115px;
+  white-space: pre-wrap;
+  text-align: left;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.wasteManagementRecyclingGarIcon {
+  position: absolute;
+  top: 318px;
+  left: 43px;
+  width: 55px;
+  height: 59.5px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 389px;
+  left: 43px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue);
+  width: 55px;
+  height: 55px;
+}
+.image31Icon {
+  position: absolute;
+  top: 397px;
+  left: 51px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.communityEvent {
+  position: absolute;
+  top: 69px;
+  left: calc(50% - 89px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+  display: inline-block;
+  width: 178px;
+  height: 57px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.viewMoreEventPage {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

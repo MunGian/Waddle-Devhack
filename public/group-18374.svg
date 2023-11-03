@@ -1,0 +1,24 @@
+<svg width="86" height="100" viewBox="0 0 86 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="54.3235" width="10.25" height="4.45" rx="1" transform="rotate(-90 1 54.3235)" fill="white" stroke="black" stroke-width="2"/>
+<rect x="7.7334" y="17.6909" width="70.5333" height="74.5441" rx="8" fill="white" stroke="black" stroke-width="4"/>
+<line x1="5.7334" y1="36.3091" x2="78.1167" y2="36.3091" stroke="black" stroke-width="2"/>
+<line x1="5.73145" y1="67.6543" x2="78.1183" y2="67.6543" stroke="black" stroke-width="2"/>
+<line x1="36.5499" y1="78.1028" x2="48.7333" y2="78.1028" stroke="black" stroke-width="2"/>
+<line x1="36.5499" y1="81.7056" x2="48.7333" y2="81.7056" stroke="black" stroke-width="2"/>
+<line x1="42.7168" y1="67.5735" x2="42.7168" y2="36.5882" stroke="black" stroke-width="2"/>
+<line y1="-1.5" x2="19.3298" y2="-1.5" transform="matrix(0.623613 -0.781733 0.7784 0.627769 34.4001 17.1106)" stroke="black" stroke-width="3"/>
+<line y1="-1.5" x2="19.3298" y2="-1.5" transform="matrix(0.623613 -0.781733 0.7784 0.627769 45.8667 17.1106)" stroke="black" stroke-width="3"/>
+<ellipse cx="36.5501" cy="27.2208" rx="2.15" ry="2.16176" fill="black"/>
+<ellipse cx="49.4499" cy="27.2208" rx="2.15" ry="2.16176" fill="black"/>
+<path d="M33.4001 80.1836C33.4001 81.3305 32.3398 82.4262 30.8167 82.4262C29.2937 82.4262 28.2334 81.3305 28.2334 80.1836C28.2334 79.0366 29.2937 77.9409 30.8167 77.9409C32.3398 77.9409 33.4001 79.0366 33.4001 80.1836Z" fill="white" stroke="black" stroke-width="2"/>
+<path d="M57.7665 80.1836C57.7665 81.3305 56.7063 82.4262 55.1832 82.4262C53.6601 82.4262 52.5999 81.3305 52.5999 80.1836C52.5999 79.0366 53.6601 77.9409 55.1832 77.9409C56.7063 77.9409 57.7665 79.0366 57.7665 80.1836Z" fill="white" stroke="black" stroke-width="2"/>
+<mask id="path-14-inside-1_72_2364" fill="white">
+<rect x="22.2168" y="93.5146" width="12.1833" height="6.48529" rx="2"/>
+</mask>
+<rect x="22.2168" y="93.5146" width="12.1833" height="6.48529" rx="2" fill="white" stroke="black" stroke-width="6" mask="url(#path-14-inside-1_72_2364)"/>
+<rect x="80.5499" y="54.3235" width="10.25" height="4.45" rx="1" transform="rotate(-90 80.5499 54.3235)" fill="white" stroke="black" stroke-width="2"/>
+<mask id="path-16-inside-2_72_2364" fill="white">
+<rect x="51.5999" y="93.5146" width="12.1833" height="6.48529" rx="2"/>
+</mask>
+<rect x="51.5999" y="93.5146" width="12.1833" height="6.48529" rx="2" fill="white" stroke="black" stroke-width="6" mask="url(#path-16-inside-2_72_2364)"/>
+</svg>

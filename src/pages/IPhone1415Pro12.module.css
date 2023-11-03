@@ -1,0 +1,130 @@
+.iphone1415Pro12Child {
+  position: absolute;
+  top: -135px;
+  left: -117px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+  width: 615px;
+  height: 542px;
+}
+.iphone1415Pro12Item {
+  position: absolute;
+  top: 64px;
+  left: 172px;
+  width: 50px;
+  height: 53px;
+}
+.iphone1415Pro12Inner {
+  position: absolute;
+  top: 47.9px;
+  left: 27.5px;
+  width: 11.5px;
+  height: 17.2px;
+  cursor: pointer;
+}
+.createYourAccount {
+  position: absolute;
+  top: 169px;
+  left: 110px;
+  display: inline-block;
+  width: 174px;
+  height: 22px;
+}
+.getStartedWith {
+  position: absolute;
+  top: 125px;
+  left: 103px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  text-align: left;
+}
+.codeIsSent {
+  margin: 0;
+}
+.codeIsSentContainer {
+  position: absolute;
+  top: 243px;
+  left: 110px;
+  display: inline-block;
+  width: 174px;
+  height: 43px;
+}
+.iphone1415Pro12Child1,
+.iphone1415Pro12Child2,
+.iphone1415Pro12Child3,
+.rectangleDiv {
+  position: absolute;
+  top: 308px;
+  left: 61px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 55px;
+  height: 55px;
+}
+.iphone1415Pro12Child1,
+.iphone1415Pro12Child2,
+.iphone1415Pro12Child3 {
+  left: 133px;
+}
+.iphone1415Pro12Child2,
+.iphone1415Pro12Child3 {
+  left: 205px;
+}
+.iphone1415Pro12Child3 {
+  left: 278px;
+}
+.resend {
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.didntGetTheContainer {
+  position: absolute;
+  top: 443px;
+  left: 85px;
+  display: inline-block;
+  width: 223px;
+  height: 22px;
+  color: var(--color-steelblue);
+}
+.groupChild {
+  top: calc(50% - 24.5px);
+  left: calc(50% - 162.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumblue);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.groupChild,
+.next,
+.rectangleParent {
+  position: absolute;
+  width: 325px;
+  height: 49px;
+}
+.next {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.rectangleParent {
+  top: calc(50% + 133px);
+  left: calc(50% - 162.5px);
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.iphone1415Pro12 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-1000);
+  font-family: var(--font-itim);
+}

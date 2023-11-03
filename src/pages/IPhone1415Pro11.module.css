@@ -1,0 +1,173 @@
+.iphone1415Pro11Child {
+  position: absolute;
+  top: -146px;
+  left: -115px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+  width: 615px;
+  height: 542px;
+}
+.iphone1415Pro11Item {
+  position: absolute;
+  top: 64px;
+  left: 172px;
+  width: 50px;
+  height: 53px;
+}
+.iphone1415Pro11Inner {
+  position: absolute;
+  top: 47.9px;
+  left: 27.5px;
+  width: 11.5px;
+  height: 17.2px;
+  cursor: pointer;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+  height: 52px;
+}
+.malaysia60 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 76px;
+  display: flex;
+  align-items: center;
+  width: 144px;
+  height: 23px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 287px;
+  left: 34px;
+  width: 325px;
+  height: 52px;
+}
+.countryRegion {
+  top: calc(50% - 176px);
+  left: 34px;
+  width: 144px;
+  height: 15px;
+}
+.countryRegion,
+.createYourAccount,
+.enterYourPhone {
+  position: absolute;
+  display: inline-block;
+}
+.enterYourPhone {
+  top: calc(50% - 8px);
+  left: 34px;
+  width: 199px;
+  height: 15px;
+}
+.createYourAccount {
+  top: 169px;
+  left: 110px;
+  font-size: var(--font-size-mini);
+  text-align: center;
+  width: 174px;
+  height: 22px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 455px;
+  left: 34px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+  height: 52px;
+}
+.phoneNumber {
+  position: absolute;
+  top: calc(50% + 43px);
+  left: 110px;
+  display: flex;
+  align-items: center;
+  width: 144px;
+  height: 23px;
+}
+.getStartedWith {
+  position: absolute;
+  top: 125px;
+  left: 103px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.malaysiaFlagPngXl1Icon {
+  position: absolute;
+  top: 300px;
+  left: 49px;
+  width: 43px;
+  height: 25px;
+  object-fit: cover;
+}
+.chevronDownIcon,
+.vectorIcon {
+  position: absolute;
+  top: 302px;
+  left: 323px;
+  width: 26px;
+  height: 32px;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 3.29%;
+  width: 6.11%;
+  top: 54.81%;
+  right: 78.88%;
+  bottom: 41.9%;
+  left: 15.01%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupItem {
+  top: calc(50% - 24.5px);
+  left: calc(50% - 162.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumblue);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.groupItem,
+.next,
+.rectangleGroup {
+  position: absolute;
+  width: 325px;
+  height: 49px;
+}
+.next {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.rectangleGroup {
+  top: calc(50% + 133px);
+  left: calc(50% - 162.5px);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.iphone1415Pro11 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-1000);
+  font-family: var(--font-itim);
+}

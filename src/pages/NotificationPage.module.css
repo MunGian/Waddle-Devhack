@@ -1,0 +1,308 @@
+.notificationPageChild {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.notificationPageItem {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.notificationPageInner {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.groupIcon,
+.notificationPageChild1 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.notificationPageChild1 {
+  cursor: pointer;
+}
+.ellipseDiv,
+.frameChild {
+  position: absolute;
+  background-color: var(--color-steelblue);
+}
+.ellipseDiv {
+  top: 800px;
+  left: 227px;
+  border-radius: 50%;
+  width: 7px;
+  height: 7px;
+}
+.frameChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.frameChild1,
+.frameChild2,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  width: 13px;
+  height: 1px;
+}
+.frameChild1,
+.frameChild2,
+.frameInner {
+  top: 14px;
+}
+.frameChild1,
+.frameChild2 {
+  top: 11px;
+}
+.frameChild2 {
+  top: 8.5px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 770px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+}
+.notifications {
+  top: 54px;
+  left: 123px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  -webkit-text-stroke: 0.5px #000;
+}
+.newNotifications,
+.notifications,
+.whatsNew {
+  position: absolute;
+  text-align: center;
+  mix-blend-mode: darken;
+}
+.whatsNew {
+  top: 189px;
+  left: 43px;
+  font-size: var(--font-size-5xl);
+  -webkit-text-stroke: 0.5px #000;
+}
+.newNotifications {
+  top: 92px;
+  left: 141px;
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-200);
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.96%;
+  width: 5.62%;
+  top: 17.42%;
+  right: 85.15%;
+  bottom: 79.62%;
+  left: 9.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.buttonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-200);
+}
+.buttonInner {
+  position: absolute;
+  height: 73.2%;
+  width: 35.5%;
+  top: 13.2%;
+  right: 56.5%;
+  bottom: 13.6%;
+  left: 8%;
+  border-radius: 50%;
+  background-color: var(--color-whitesmoke-200);
+}
+.button {
+  position: absolute;
+  top: 147px;
+  left: 294px;
+  width: 60px;
+  height: 25px;
+  opacity: 0.5;
+}
+.notification {
+  position: absolute;
+  top: 151px;
+  left: 89px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-gray-1000);
+}
+.notificationPageChild2,
+.rectangleIcon {
+  position: absolute;
+  left: 36px;
+  border-radius: var(--br-mini);
+  width: 318px;
+}
+.rectangleIcon {
+  top: 233px;
+  height: 79px;
+  object-fit: cover;
+}
+.notificationPageChild2 {
+  top: 294px;
+  background-color: var(--color-white);
+  height: 80px;
+}
+.unmaskingGreenwashingJoin {
+  position: absolute;
+  top: 288px;
+  left: 48px;
+  display: flex;
+  align-items: center;
+  width: 301px;
+  height: 80px;
+}
+.notificationPageChild3,
+.notificationPageChild4 {
+  position: absolute;
+  left: 36px;
+  border-radius: var(--br-mini);
+  width: 318px;
+}
+.notificationPageChild3 {
+  top: 399px;
+  height: 79px;
+  object-fit: cover;
+}
+.notificationPageChild4 {
+  top: 460px;
+  background-color: var(--color-white);
+  height: 80px;
+}
+.theJohorGovernment {
+  position: absolute;
+  top: 464px;
+  left: 48px;
+  display: flex;
+  align-items: center;
+  width: 307px;
+  height: 56px;
+}
+.dayAgo,
+.hoursAgo,
+.past {
+  position: absolute;
+  display: inline-block;
+}
+.past {
+  top: 549px;
+  left: 43px;
+  font-size: var(--font-size-5xl);
+  width: 112px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.dayAgo,
+.hoursAgo {
+  top: 354px;
+  left: 48px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1000);
+  width: 116px;
+  height: 12px;
+}
+.dayAgo {
+  top: 520px;
+}
+.notificationPageChild5,
+.notificationPageChild6 {
+  position: absolute;
+  left: 36px;
+  border-radius: var(--br-mini);
+  width: 318px;
+}
+.notificationPageChild5 {
+  top: 593px;
+  height: 79px;
+  object-fit: cover;
+}
+.notificationPageChild6 {
+  top: 654px;
+  background-color: var(--color-white);
+  height: 72px;
+}
+.daysAgo,
+.newTrainFleets {
+  position: absolute;
+  left: 45px;
+}
+.newTrainFleets {
+  top: 658px;
+  display: flex;
+  align-items: center;
+  width: 307px;
+  height: 56px;
+}
+.daysAgo {
+  top: 707px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1000);
+  display: inline-block;
+  width: 116px;
+  height: 12px;
+}
+.iconHome {
+  position: absolute;
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.notificationPage {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

@@ -1,0 +1,348 @@
+.subscriptionPageChild {
+  position: absolute;
+  top: 181px;
+  left: calc(50% - 160px);
+  background-color: var(--color-silver-100);
+  width: 320px;
+  height: 489px;
+}
+.subscriptionPageItem {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.subscriptionPageInner {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.groupInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.groupIcon,
+.subscriptionPageChild1 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.subscriptionPageChild1 {
+  left: 219px;
+}
+.ellipseDiv,
+.subscriptionPageChild5 {
+  position: absolute;
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.subscriptionPageChild5 {
+  left: 300px;
+}
+.subscriptionPageChild6,
+.subscriptionPageChild7 {
+  position: absolute;
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.subscriptionPageChild7 {
+  cursor: pointer;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  top: 14px;
+}
+.groupChild4,
+.groupChild5 {
+  top: 11px;
+}
+.groupChild5 {
+  top: 8.5px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.subscriptionPageChild8 {
+  position: absolute;
+  top: 160px;
+  left: 75px;
+  background-color: var(--color-white);
+  width: 240px;
+  height: 543px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 2.37%;
+  width: 5.13%;
+  top: 34.6%;
+  right: 70.26%;
+  bottom: 63.03%;
+  left: 24.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  top: 58.77%;
+  bottom: 38.86%;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  top: 52.73%;
+  bottom: 44.91%;
+}
+.vectorIcon3 {
+  top: 40.64%;
+  bottom: 56.99%;
+}
+.subscriptionPageChild9,
+.waddlePro {
+  position: absolute;
+  top: 51px;
+  left: 130px;
+  width: 131px;
+  height: 136px;
+}
+.waddlePro {
+  top: 200px;
+  left: 106px;
+  font-size: 35px;
+  font-family: var(--font-kaushan-script);
+  color: var(--color-gray-600);
+  text-align: center;
+  display: inline-block;
+  width: 177px;
+  height: 44px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 2.37%;
+  width: 5.13%;
+  top: 46.68%;
+  right: 70.26%;
+  bottom: 50.95%;
+  left: 24.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.priorityBookingFor {
+  position: absolute;
+  top: 292px;
+  left: 123px;
+  display: flex;
+  align-items: center;
+  width: 191px;
+  height: 22px;
+}
+.exclusiveDiscountFor {
+  top: 346px;
+  display: flex;
+  align-items: center;
+}
+.exclusiveAccessTo,
+.exclusiveDiscountFor,
+.freePickUp {
+  position: absolute;
+  left: 123px;
+  width: 191px;
+  height: 22px;
+}
+.exclusiveAccessTo {
+  top: 397px;
+  display: flex;
+  align-items: center;
+}
+.freePickUp {
+  top: 448px;
+}
+.exclusiveProRewards,
+.freePickUp,
+.rm4 {
+  display: flex;
+  align-items: center;
+}
+.exclusiveProRewards {
+  position: absolute;
+  top: 495px;
+  left: 123px;
+  width: 191px;
+  height: 22px;
+}
+.rm4 {
+  top: 549px;
+  left: calc(50% - 67px);
+  font-size: var(--font-size-6xl);
+  color: var(--color-forestgreen-100);
+  width: 70px;
+}
+.div,
+.lineIcon,
+.rm4 {
+  position: absolute;
+  height: 22px;
+}
+.div {
+  top: 542px;
+  left: 198px;
+  color: var(--color-forestgreen-100);
+  display: flex;
+  align-items: center;
+  width: 18px;
+}
+.lineIcon {
+  top: 549.5px;
+  left: 219px;
+  width: 1px;
+}
+.per {
+  margin: 0;
+}
+.perMonthTxtContainer {
+  line-break: anywhere;
+  width: 100%;
+}
+.perMonth {
+  position: absolute;
+  top: 549px;
+  left: 226px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-forestgreen-100);
+  display: flex;
+  align-items: center;
+  width: 48px;
+  height: 23px;
+}
+.subscriptionPageChild10 {
+  position: absolute;
+  top: 620px;
+  left: calc(50% - 55px);
+  border-radius: var(--br-mini);
+  background-color: var(--color-steelblue);
+  width: 111px;
+  height: 50px;
+}
+.freeTrialForContainer {
+  position: absolute;
+  top: 621px;
+  left: 140px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  white-space: pre-wrap;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  width: 110px;
+  height: 49px;
+}
+.iconHome {
+  position: absolute;
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.subscriptionPage {
+  position: relative;
+  background: linear-gradient(180deg, #6196e7, rgba(208, 108, 157, 0));
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

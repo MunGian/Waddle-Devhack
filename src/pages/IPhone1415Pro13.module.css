@@ -1,0 +1,208 @@
+.iphone1415Pro13Child {
+  position: absolute;
+  top: -135px;
+  left: -113px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+  width: 615px;
+  height: 542px;
+}
+.iphone1415Pro13Item {
+  position: absolute;
+  top: 47.9px;
+  left: 27.5px;
+  width: 11.5px;
+  height: 17.2px;
+  cursor: pointer;
+}
+.signUp {
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.dontHaveAccountContainer,
+.forgetPassword {
+  position: absolute;
+  display: inline-block;
+  height: 18px;
+  cursor: pointer;
+}
+.dontHaveAccountContainer {
+  top: 627px;
+  left: calc(50% - 106.5px);
+  font-size: var(--font-size-smi);
+  text-align: center;
+  width: 213px;
+  color: var(--color-darkgray-100);
+}
+.forgetPassword {
+  top: calc(50% + 72px);
+  left: 254px;
+  font-size: var(--font-size-xs);
+  color: var(--color-mediumblue);
+  width: 96px;
+}
+.iphone1415Pro13Inner {
+  position: absolute;
+  top: 77px;
+  left: 219px;
+  width: 131px;
+  height: 136px;
+}
+.welcomeTo {
+  margin: 0;
+}
+.welcomeToWaddleContainer {
+  position: absolute;
+  top: 112px;
+  left: 52px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-kaushan-script);
+  color: var(--color-gray-600);
+  text-align: center;
+  display: inline-block;
+  width: 149px;
+  height: 89px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.emailOrUsername {
+  position: absolute;
+  top: calc(50% - 153px);
+  left: 46px;
+  display: inline-block;
+  width: 124px;
+  height: 15px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 304px;
+  height: 43px;
+}
+.usersIcon {
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  width: 23.4px;
+  height: 24px;
+  overflow: hidden;
+}
+.namegmailcom {
+  position: absolute;
+  top: 14px;
+  left: 50px;
+  display: inline-block;
+  width: 123px;
+  height: 21px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 310px;
+  left: 46px;
+  width: 304px;
+  height: 43px;
+  font-size: var(--font-size-sm-5);
+}
+.password {
+  position: absolute;
+  top: 14px;
+  left: 50px;
+  display: inline-block;
+  width: 84.2px;
+  height: 21px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 444px;
+  left: 46px;
+  width: 304px;
+  height: 43px;
+  font-size: var(--font-size-sm-5);
+}
+.password1 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: 46px;
+  display: inline-block;
+  width: 78px;
+  height: 15px;
+}
+.lockIcon {
+  position: absolute;
+  top: 452px;
+  left: 59px;
+  width: 23px;
+  height: 28px;
+  overflow: hidden;
+}
+.groupInner,
+.signIn {
+  position: absolute;
+  width: 325px;
+  height: 49px;
+}
+.groupInner {
+  top: calc(50% - 24.5px);
+  left: calc(50% - 162.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumblue);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.signIn {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangleContainer {
+  top: calc(50% - 52px);
+  left: calc(50% - 390.5px);
+}
+.rectangleContainer,
+.rectangleDiv,
+.signInWrapper {
+  position: absolute;
+  width: 325px;
+  height: 49px;
+}
+.rectangleDiv {
+  top: calc(50% + 3px);
+  left: calc(50% + 65.5px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumblue);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.signInWrapper {
+  top: 55px;
+  left: 456px;
+  cursor: pointer;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% + 75px);
+  left: calc(50% - 617.5px);
+  width: 781px;
+  height: 104px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.iphone1415Pro13 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-1000);
+  font-family: var(--font-itim);
+}

@@ -1,0 +1,308 @@
+.publicBusesPage2Child {
+  position: absolute;
+  top: -171px;
+  left: -69px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+  width: 528px;
+  height: 541px;
+}
+.publicBusesPage2Item {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.image1Icon {
+  position: absolute;
+  top: 122px;
+  left: 61px;
+  width: 268px;
+  height: 236px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 345px;
+  height: 59px;
+}
+.persiaranBayanIndah {
+  margin: 0;
+}
+.persiaranBayanIndahContainer {
+  position: absolute;
+  top: 35px;
+  left: 68px;
+  display: inline-block;
+  width: 242px;
+  height: 19px;
+  mix-blend-mode: darken;
+}
+.rectangleParent {
+  position: absolute;
+  top: 239px;
+  left: 23px;
+  width: 345px;
+  height: 59px;
+  font-size: var(--font-size-xs);
+}
+.publicBus {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 85px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+  display: inline-block;
+  width: 170px;
+  height: 27px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.image17Icon {
+  position: absolute;
+  top: 61px;
+  left: 35px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.queensbayMall {
+  position: absolute;
+  top: 250px;
+  left: 101px;
+  color: var(--color-black);
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.removebgPreview1Icon {
+  position: absolute;
+  top: 253px;
+  left: 48px;
+  width: 40.5px;
+  height: 31.5px;
+  object-fit: cover;
+}
+.jalanPenang {
+  position: absolute;
+  top: 36px;
+  left: 60px;
+  display: inline-block;
+  width: 220px;
+  height: 19px;
+  mix-blend-mode: darken;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 311px;
+  left: 22px;
+  width: 345px;
+  height: 59px;
+  font-size: var(--font-size-xs);
+}
+.komtarTower {
+  position: absolute;
+  top: 322px;
+  left: 101px;
+  color: var(--color-black);
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.eps10BluePinPointOrLocatiIcon {
+  position: absolute;
+  top: 323px;
+  left: 42px;
+  width: 51px;
+  height: 35px;
+  object-fit: cover;
+}
+.image5Icon,
+.rectangleDiv {
+  position: absolute;
+  left: 22px;
+}
+.rectangleDiv {
+  top: 395px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 335px;
+  height: 297px;
+}
+.image5Icon {
+  top: 472px;
+  width: 334px;
+  height: 158px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.atTheMoment,
+.publicBusesAvailable {
+  position: absolute;
+  top: 444px;
+  left: 38px;
+  mix-blend-mode: darken;
+}
+.publicBusesAvailable {
+  top: 422px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  -webkit-text-stroke: 0.5px #000;
+}
+.publicBusesPage2Child1 {
+  position: absolute;
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.groupIcon {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.frameInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.ellipseDiv,
+.publicBusesPage2Child2,
+.publicBusesPage2Child3 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.ellipseDiv,
+.publicBusesPage2Child3 {
+  left: 219px;
+}
+.ellipseDiv {
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.publicBusesPage2Child5,
+.publicBusesPage2Child7 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+  cursor: pointer;
+}
+.publicBusesPage2Child7 {
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+}
+.groupInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3,
+.groupChild4 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4 {
+  top: 14px;
+}
+.groupChild3,
+.groupChild4 {
+  top: 11px;
+}
+.groupChild4 {
+  top: 8.5px;
+}
+.iconHome,
+.rectangleContainer {
+  position: absolute;
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  height: 22px;
+  cursor: pointer;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.publicBusesPage2 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-itim);
+}

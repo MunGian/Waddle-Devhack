@@ -1,0 +1,197 @@
+.viewMoreEventPageChild {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.trendingEvent {
+  position: absolute;
+  top: 266px;
+  left: 43px;
+  font-size: var(--font-size-xl);
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.image17Icon {
+  position: absolute;
+  top: 87px;
+  left: 36px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 345px;
+  height: 73px;
+}
+.exploreMore,
+.icon {
+  position: absolute;
+  top: 25px;
+}
+.exploreMore {
+  left: 70px;
+  -webkit-text-stroke: 0.5px #d9d9d9;
+  mix-blend-mode: darken;
+}
+.icon {
+  left: 27px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 163px;
+  left: 22px;
+  width: 345px;
+  height: 73px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gainsboro-300);
+  font-family: var(--font-inter);
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-silver-100);
+  width: 330px;
+  height: 197px;
+  cursor: pointer;
+}
+.letsPlantTogether,
+.sun19Nov {
+  position: absolute;
+  top: 161px;
+  left: 28px;
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.sun19Nov {
+  top: 175px;
+  color: var(--color-mediumvioletred);
+  -webkit-text-stroke: 0.5px #cf327f;
+}
+.image38Icon,
+.rectangleGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 197px;
+}
+.image38Icon {
+  height: 156px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.groupParent,
+.viewMoreEventPageInner {
+  position: absolute;
+  left: 28px;
+  width: 330px;
+  height: 197px;
+}
+.groupParent {
+  top: 310px;
+  cursor: pointer;
+}
+.viewMoreEventPageInner {
+  top: 745px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-silver-100);
+}
+.letsPlantTogether1,
+.sun19Nov1 {
+  position: absolute;
+  top: 906px;
+  left: 55px;
+  font-family: var(--font-inter);
+  -webkit-text-stroke: 0.5px #000;
+  mix-blend-mode: darken;
+}
+.sun19Nov1 {
+  top: 921px;
+  color: var(--color-mediumvioletred);
+  -webkit-text-stroke: 0.5px #cf327f;
+}
+.electricVehiclesCarsInChar {
+  position: absolute;
+  top: 527px;
+  left: 28px;
+  width: 335px;
+  height: 161px;
+}
+.sun26Nov {
+  position: absolute;
+  top: 176px;
+  left: 28px;
+  color: var(--color-mediumvioletred);
+  -webkit-text-stroke: 0.5px #cf327f;
+  mix-blend-mode: darken;
+}
+.image48Icon,
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+}
+.image48Icon {
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  height: 154px;
+  object-fit: cover;
+}
+.rectangleContainer {
+  height: 197px;
+  cursor: pointer;
+}
+.groupDiv,
+.image49Icon {
+  position: absolute;
+  left: 28px;
+  width: 330px;
+}
+.groupDiv {
+  top: 527px;
+  height: 197px;
+  cursor: pointer;
+}
+.image49Icon {
+  top: 745px;
+  border-radius: var(--br-mini) var(--br-mini) 0 0;
+  height: 176px;
+  object-fit: cover;
+}
+.details {
+  position: absolute;
+  top: 86px;
+  left: calc(50% - 42px);
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-600);
+  text-align: left;
+  display: inline-block;
+  width: 80px;
+  height: 27px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.viewMoreEventPage {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

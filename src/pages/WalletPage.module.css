@@ -1,0 +1,572 @@
+.walletPageChild,
+.walletPageItem {
+  position: absolute;
+  top: 138px;
+  left: 37px;
+  border-radius: var(--br-mini);
+  width: 305px;
+  height: 107px;
+}
+.walletPageItem {
+  top: 736px;
+  left: 22px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 346px;
+  height: 86px;
+}
+.walletPageInner {
+  position: absolute;
+  height: 3.08%;
+  width: 6.67%;
+  top: 91%;
+  right: 18.72%;
+  bottom: 5.92%;
+  left: 74.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 830px;
+  left: 125px;
+  background-color: var(--color-darkslategray);
+  width: 140px;
+  height: 5px;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 1.9px;
+  width: 28px;
+  height: 16.8px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.frameInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 768px;
+  left: 69px;
+  width: 28px;
+  height: 21px;
+}
+.groupIcon,
+.walletPageChild1 {
+  position: absolute;
+  top: 772px;
+  left: 147px;
+  width: 23px;
+  height: 18px;
+}
+.walletPageChild1 {
+  left: 219px;
+}
+.ellipseDiv,
+.walletPageChild4 {
+  position: absolute;
+  top: 800px;
+  left: 79px;
+  border-radius: 50%;
+  background-color: var(--color-steelblue);
+  width: 7px;
+  height: 7px;
+}
+.walletPageChild4 {
+  left: 154px;
+}
+.waddleWallet {
+  position: absolute;
+  top: 61px;
+  left: 37px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-gray-600);
+  display: inline-block;
+  width: 195px;
+  height: 41px;
+  -webkit-text-stroke: 0.5px #0b0b0b;
+}
+.walletPageChild5 {
+  position: absolute;
+  top: 768px;
+  left: 291px;
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+}
+.frameChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-steelblue);
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+}
+.frameChild2,
+.frameChild3,
+.frameChild4,
+.frameChild5 {
+  position: absolute;
+  top: 5.5px;
+  left: 4.6px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-steelblue);
+  width: 13px;
+  height: 1px;
+}
+.frameChild3,
+.frameChild4,
+.frameChild5 {
+  top: 14px;
+}
+.frameChild4,
+.frameChild5 {
+  top: 11px;
+}
+.frameChild5 {
+  top: 8.5px;
+}
+.balance,
+.rectangleParent {
+  position: absolute;
+  height: 22px;
+}
+.rectangleParent {
+  top: 771px;
+  left: 220px;
+  width: 22px;
+  cursor: pointer;
+}
+.balance {
+  top: 154px;
+  left: 54px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+  width: 153px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.59%;
+  width: 6.41%;
+  top: 23.82%;
+  right: 79.74%;
+  bottom: 73.59%;
+  left: 13.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rm10000 {
+  position: absolute;
+  top: 201px;
+  left: 95px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  display: inline-block;
+  width: 153px;
+  height: 22px;
+}
+.walletPageChild7,
+.walletPageChild8 {
+  position: absolute;
+  top: 284px;
+  border-radius: var(--br-3xs);
+  width: 145px;
+  height: 42px;
+}
+.walletPageChild7 {
+  left: 37px;
+  background-color: var(--color-mediumblue);
+}
+.walletPageChild8 {
+  left: 197px;
+  background-color: #0a9830;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 1.78%;
+  width: 5.13%;
+  top: 35.19%;
+  right: 82.82%;
+  bottom: 63.03%;
+  left: 12.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 2.3%;
+  width: 6.41%;
+  top: 34.95%;
+  right: 40.51%;
+  bottom: 62.75%;
+  left: 53.08%;
+}
+.addACard,
+.vertification {
+  position: absolute;
+  top: 284px;
+  left: 81px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  display: flex;
+  align-items: center;
+  width: 101px;
+  height: 42px;
+}
+.addACard {
+  left: 241px;
+}
+.topUp,
+.walletPageChild9 {
+  position: absolute;
+  top: 377px;
+  height: 33px;
+}
+.walletPageChild9 {
+  left: 37px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 71px;
+}
+.topUp {
+  left: 72px;
+  font-size: var(--font-size-5xs);
+  display: flex;
+  align-items: center;
+  width: 36px;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 1.78%;
+  width: 4.36%;
+  top: 45.73%;
+  right: 82.31%;
+  bottom: 52.49%;
+  left: 13.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scan,
+.walletPageChild10 {
+  position: absolute;
+  top: 376px;
+  height: 33px;
+}
+.walletPageChild10 {
+  left: 114px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 71px;
+}
+.scan {
+  left: 150px;
+  font-size: var(--font-size-5xs);
+  display: flex;
+  align-items: center;
+  width: 35px;
+}
+.receive,
+.walletPageChild11 {
+  position: absolute;
+  top: 375px;
+  height: 33px;
+}
+.walletPageChild11 {
+  left: 270px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 71px;
+}
+.receive {
+  left: 306px;
+  font-size: var(--font-size-5xs);
+  display: flex;
+  align-items: center;
+  width: 35px;
+}
+.pay,
+.walletPageChild12 {
+  position: absolute;
+  top: 376px;
+  height: 33px;
+}
+.walletPageChild12 {
+  left: 192px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 71px;
+}
+.pay {
+  left: 227px;
+  font-size: var(--font-size-5xs);
+  display: flex;
+  align-items: center;
+  width: 36px;
+}
+.vectorIcon4 {
+  position: absolute;
+  height: 2.13%;
+  top: 45.62%;
+  bottom: 52.25%;
+  left: calc(50% - 71px);
+  max-height: 100%;
+  width: 16px;
+}
+.vectorIcon5,
+.vectorIcon6 {
+  position: absolute;
+  height: 1.34%;
+  width: 2.72%;
+  top: 45.85%;
+  right: 44.92%;
+  bottom: 52.81%;
+  left: 52.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon6 {
+  top: 45.82%;
+  right: 24.77%;
+  bottom: 52.84%;
+  left: 72.51%;
+}
+.quickAction {
+  position: absolute;
+  top: 343px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  width: 127px;
+  height: 17px;
+}
+.lineDiv {
+  position: absolute;
+  top: 426.5px;
+  left: 51.5px;
+  border-top: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 311px;
+  height: 1px;
+}
+.recentTransaction {
+  position: absolute;
+  top: 440px;
+  left: 44px;
+  display: flex;
+  align-items: center;
+  width: 127px;
+  height: 17px;
+}
+.walletPageChild13 {
+  position: absolute;
+  top: 482px;
+  left: 37px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 305px;
+  height: 223px;
+}
+.booking,
+.rm3020 {
+  position: absolute;
+  top: 558px;
+  left: 56px;
+  display: flex;
+  align-items: center;
+  width: 145px;
+  height: 31px;
+}
+.rm3020 {
+  left: 217px;
+  text-align: right;
+  width: 99px;
+}
+.walletPageChild14 {
+  position: absolute;
+  top: 616.5px;
+  left: 55.5px;
+  border-top: 1px solid var(--color-gray-1000);
+  box-sizing: border-box;
+  width: 276px;
+  height: 1px;
+}
+.bookingId {
+  position: absolute;
+  top: 584px;
+  left: 56px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: center;
+  width: 145px;
+  height: 19px;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  top: 9.6px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 7.2px;
+  height: 1.9px;
+  transform: rotate(-48.94deg);
+  transform-origin: 0 0;
+}
+.groupItem {
+  top: 0;
+  left: 1.3px;
+  transform: rotate(48.94deg);
+}
+.pay1,
+.rectangleGroup,
+.rm5000 {
+  position: absolute;
+  top: 568px;
+  left: 325px;
+  width: 6px;
+  height: 11px;
+}
+.pay1,
+.rm5000 {
+  top: 489px;
+  left: 56px;
+  display: flex;
+  align-items: center;
+  width: 145px;
+  height: 31px;
+}
+.rm5000 {
+  left: 217px;
+  text-align: right;
+  width: 99px;
+}
+.walletPageChild15 {
+  position: absolute;
+  top: 551.5px;
+  left: 55.5px;
+  border-top: 1px solid var(--color-gray-1000);
+  box-sizing: border-box;
+  width: 276px;
+  height: 1px;
+}
+.toUsmSdn {
+  position: absolute;
+  top: 518px;
+  left: 56px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1000);
+  display: flex;
+  align-items: center;
+  width: 145px;
+  height: 19px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 499px;
+  left: 325px;
+  width: 6px;
+  height: 11px;
+}
+.topUp1 {
+  top: 621px;
+  left: 57px;
+  width: 145px;
+  height: 31px;
+}
+.rm100001,
+.topUp1,
+.usingRhbBank {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.rm100001 {
+  top: 623px;
+  left: 217px;
+  text-align: right;
+  width: 99px;
+  height: 31px;
+}
+.usingRhbBank {
+  top: 650px;
+  left: 56px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1000);
+  width: 145px;
+  height: 19px;
+}
+.groupDiv {
+  top: 634px;
+  left: 325px;
+  width: 6px;
+  height: 11px;
+}
+.div,
+.groupDiv,
+.iconHome {
+  position: absolute;
+}
+.div {
+  top: 669px;
+  left: 182px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 23px;
+  height: 15px;
+}
+.iconHome {
+  height: 2.7%;
+  width: 6.67%;
+  top: 91%;
+  right: 75.38%;
+  bottom: 6.3%;
+  left: 17.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.pngtreeAvatarIconProfileIc {
+  position: absolute;
+  top: 49px;
+  left: 285px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.walletPage {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-itim);
+}

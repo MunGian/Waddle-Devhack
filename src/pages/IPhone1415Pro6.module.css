@@ -1,0 +1,309 @@
+.iphone1415Pro6Child {
+  position: absolute;
+  top: -135px;
+  left: -113px;
+  border-radius: 50%;
+  background-color: var(--color-lightskyblue);
+  width: 615px;
+  height: 542px;
+}
+.iphone1415Pro6Item {
+  position: absolute;
+  top: 64px;
+  left: 172px;
+  width: 50px;
+  height: 53px;
+}
+.iphone1415Pro6Inner {
+  position: absolute;
+  top: 47.9px;
+  left: 27.5px;
+  width: 11.5px;
+  height: 17.2px;
+  cursor: pointer;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 425px;
+  left: 39px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+  height: 42px;
+}
+.groupChild,
+.groupDiv {
+  position: absolute;
+  width: 325px;
+  height: 43px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+}
+.groupDiv {
+  top: 238px;
+  left: 39px;
+}
+.login {
+  color: var(--color-mediumblue);
+}
+.haveAnAccountContainer {
+  top: 672px;
+  left: 99px;
+  font-size: var(--font-size-mini);
+  text-align: center;
+  width: 175px;
+  height: 21px;
+  cursor: pointer;
+}
+.haveAnAccountContainer,
+.password,
+.username {
+  position: absolute;
+  display: inline-block;
+}
+.password {
+  top: 437px;
+  left: 92px;
+  width: 206px;
+  height: 29px;
+}
+.username {
+  top: calc(50% - 217px);
+  left: 39px;
+  font-size: var(--font-size-sm);
+  width: 78px;
+  height: 15px;
+}
+.lockIcon {
+  position: absolute;
+  top: 433px;
+  left: 49px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.iphone1415Pro6Child1 {
+  position: absolute;
+  top: 522px;
+  left: 39px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+  height: 44px;
+}
+.createYourAccount {
+  position: absolute;
+  top: 169px;
+  left: 110px;
+  font-size: var(--font-size-mini);
+  text-align: center;
+  display: inline-block;
+  width: 174px;
+  height: 22px;
+}
+.usersIcon {
+  position: absolute;
+  top: 248px;
+  left: 49px;
+  width: 25px;
+  height: 24px;
+  overflow: hidden;
+}
+.iphone1415Pro6Child2 {
+  position: absolute;
+  top: 327px;
+  left: 39px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+  height: 44px;
+}
+.namegmailcom {
+  position: absolute;
+  top: 340px;
+  left: 93px;
+  display: inline-block;
+  width: 206px;
+  height: 18px;
+}
+.userIcon {
+  position: absolute;
+  top: 337px;
+  left: 49px;
+  width: 25px;
+  height: 24px;
+  overflow: hidden;
+}
+.username1 {
+  top: 252px;
+  left: 93px;
+  width: 90px;
+  height: 21px;
+}
+.enterYourPassword,
+.password1,
+.username1 {
+  position: absolute;
+  display: inline-block;
+}
+.password1 {
+  top: 535px;
+  left: 92px;
+  width: 206px;
+  height: 29px;
+}
+.enterYourPassword {
+  top: calc(50% + 61px);
+  left: 39px;
+  font-size: var(--font-size-sm);
+  width: 224px;
+  height: 27px;
+}
+.lockIcon1 {
+  position: absolute;
+  top: 531px;
+  left: 50px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 28px;
+  height: 16.8px;
+}
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 8.4px;
+  left: 6.1px;
+  background-color: var(--color-steelblue);
+  width: 15.9px;
+  height: 12.6px;
+}
+.frameInner {
+  top: 12.9px;
+  left: 9.9px;
+  background-color: var(--color-white);
+  width: 8.1px;
+  height: 8.1px;
+}
+.polygonParent {
+  position: absolute;
+  top: 1145px;
+  left: 0;
+  width: 28px;
+  height: 21px;
+}
+.groupItem,
+.signUp {
+  position: absolute;
+  height: 49px;
+  cursor: pointer;
+}
+.groupItem {
+  top: calc(50% - 583px);
+  left: calc(50% + 50px);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumblue);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 325px;
+}
+.signUp {
+  top: 0;
+  left: 560px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+}
+.frameParent {
+  position: absolute;
+  top: 593px;
+  left: -386px;
+  width: 750px;
+  height: 1166px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.email,
+.password2 {
+  position: absolute;
+  top: calc(50% - 32px);
+  left: 39px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 70px;
+  height: 17px;
+}
+.email {
+  top: calc(50% - 127px);
+  color: var(--color-gainsboro-300);
+  width: 40px;
+  height: 14px;
+}
+.getStartedWith {
+  position: absolute;
+  top: 125px;
+  left: 103px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.orSignUp {
+  position: absolute;
+  top: 716px;
+  left: 99px;
+  font-size: var(--font-size-mini);
+  text-align: center;
+  display: inline-block;
+  width: 175px;
+  height: 21px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 3.52%;
+  width: 7.63%;
+  top: 88.62%;
+  right: 48.6%;
+  bottom: 7.86%;
+  left: 43.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  right: 62.85%;
+  left: 29.52%;
+}
+.vectorIcon2 {
+  right: 34.35%;
+  left: 58.02%;
+}
+.iphone1415Pro6 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 100%;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm-5);
+  color: var(--color-gray-1000);
+  font-family: var(--font-itim);
+}
